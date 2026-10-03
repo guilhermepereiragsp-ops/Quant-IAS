@@ -1,0 +1,2 @@
+Aqui estariam as imagens DICOM brutas utilizadas obtidas diretamente pelo equipamento, sem qualquer tipo de processamento prévio.
+
